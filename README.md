@@ -28,7 +28,7 @@ Nasa Space App Challenge Project Site for Solar System Miner
 Citings- 
 
 /***************************************************************************************
-*    Title: Asteroids,AsteroidsExplosion,SpaceShip,Game
+*    Title: Asteroids,AsteroidsExplosion,SpaceShip,Game, Laser, ShipExplosion
 *    Author: NelsonDK and englundGiant
 *    Date: October 16, 2012
 *    Code version: Revision 16
@@ -37,6 +37,13 @@ Citings-
 
 ***************************************************************************************/
 
+Files tweaked:
+AsteroidsExplosion
+SpaceShip
+Game
+File Added:
+Minerals
+All pictures
 
 NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
 
