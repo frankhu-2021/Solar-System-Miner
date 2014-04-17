@@ -25,6 +25,7 @@ Nasa Space App Challenge Project Site for Solar System Miner
 - https://2014.spaceappschallenge.org/project/solar-system-miner/
 
 
+<NelsonDK and englundGiant> (<October 16, 2012>) <Asteroids-Java-Clone> (<crevision16>) [<source code>]. http://code.google.com/p/asteroids-java-clone/
 Some code taken from -
 - NelsonDK and englundGiant
 - Last changed October 16, 2012
