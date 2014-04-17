@@ -41,3 +41,5 @@ NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, s
 
 - Asterods-java-clone is published under Apache Framework License,
     - Therefore, Solar System Miner is also published under Apache.
+
+We tweaked and made the game into a relatable Asteroid Prospector game, where one collects the minerals and has a method of survival.
