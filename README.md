@@ -24,6 +24,15 @@ The game is also purposed around surviving as long as you can, by mining asteroi
 Nasa Space App Challenge Project Site for Solar System Miner
 - https://2014.spaceappschallenge.org/project/solar-system-miner/
 
+/***************************************************************************************
+*    Title: Asteroids,AsteroidsExplosion,SpaceShip,Game
+*    Author: NelsonDK and englundGiant
+*    Date: October 16, 2012
+*    Code version: Revision 16
+*    Availability: http://code.google.com/p/asteroids-java-clone/
+*
+***************************************************************************************/
+
 
 NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
 Some code taken from -
