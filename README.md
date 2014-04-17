@@ -4,7 +4,9 @@ SolarSystemMiner
 NasaSpaceApp
 
 Solar System Miner
-Programmed Frank Hu and Juweek Adolphe
+
+Programmers - Frank Hu and Juweek Adolphe
+
 Designed with the help of Alex Brandon Crow
 
 
