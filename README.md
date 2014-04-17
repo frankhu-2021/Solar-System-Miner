@@ -19,6 +19,9 @@ It is an interesting field with little popularity. It might help kids get intere
 
 The game is also purposed around surviving as long as you can, by mining asteroids for resources to survive. As you survive longer, you will travel further into space, and see the respective planets in our solar system at the respective distances.
 
+Nasa Space App Challenge Project Site for Solar System Miner
+- https://2014.spaceappschallenge.org/project/solar-system-miner/
+
 
 Some code taken from -
 - NelsonDK and englundGiant
