@@ -38,12 +38,12 @@ Citings-
 ***************************************************************************************/
 
 Files tweaked:
-AsteroidsExplosion
-SpaceShip
-Game
+-AsteroidsExplosion
+-SpaceShip
+-Game
 File Added:
-Minerals
-All pictures
+-Minerals
+-All pictures
 
 NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
 
