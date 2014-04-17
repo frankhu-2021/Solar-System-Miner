@@ -39,5 +39,5 @@ Citings-
 
 NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
 
-- Asterods-java-clone is ublished under Apache Framework License,
+- Asterods-java-clone is published under Apache Framework License,
     - Therefore, Solar System Miner is also published under Apache.
