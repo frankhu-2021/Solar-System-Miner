@@ -33,4 +33,4 @@ Some code taken from -
 - Source Code
 - http://code.google.com/p/asteroids-java-clone/
 - Published under Apache Framework License,
-    - Therefore, this is also published under Apache.
+    - Therefore, Solar System Miner is also published under Apache.
