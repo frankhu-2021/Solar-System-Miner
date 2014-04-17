@@ -10,7 +10,7 @@ Programmers - Frank Hu and Juweek Adolphe
 Designed with the help of Alex Brandon Crow
 
 
-This game's purpose is to promote the education of space mining, space, and solar systems. The goal of the game is to mine asteroids for their respective resources in order to survive in space as the ship is tunneling through space as long as possible. The ship will pass by planets at their respective locations accordingly to where they have flown through space. I.E. you will be able to see mars when you are near it's respective location, which is 360million kilometers from earth. 
+This game's purpose is to promote the education of space mining, space, and solar systems. The goal of the game is to mine asteroids for their respective resources in order to survive in space as the ship is tunneling through space as long as possible. The ship will pass by planets at their respective locations accordingly to where they have flown through space. I.E. you will be able to see mars when you are near it's respective location, which is 100million kilometers from earth. 
 
 
 Description
@@ -47,6 +47,8 @@ Files Added:
 - All pictures
 
 NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
+
+http://www.universetoday.com/14824/distance-from-earth-to-mars/
 
 - Asterods-java-clone is published under Apache Framework License,
     - Therefore, Solar System Miner is also published under Apache.
