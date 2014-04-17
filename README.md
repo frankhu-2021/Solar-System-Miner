@@ -33,8 +33,8 @@ Citings-
 *    Date: October 16, 2012
 *    Code version: Revision 16
 *    Availability: http://code.google.com/p/asteroids-java-clone/
-*    
-*
+
+
 ***************************************************************************************/
 
 
