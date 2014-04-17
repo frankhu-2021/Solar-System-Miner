@@ -42,7 +42,7 @@ Files tweaked:
 - SpaceShip
 - Game
 
-File Added:
+Files Added:
 - Minerals
 - All pictures
 
