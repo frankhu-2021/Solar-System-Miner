@@ -199,10 +199,19 @@ public class Game extends Applet implements Runnable, KeyListener {
 		if (lives == 0 || ship.getWater() == 0 || ship.getOxygen() == 0) {
 			gameOver = true;
 		}
-		if (ship.getTitanium() == 10 || ship.getIron() == 10
-				|| ship.getNickel() == 10) {
+	
+		if (iron >= 10) {
+			iron = 0;
 			lives++;
-
+			// increase the buffer(life) of the asteroid
+		}
+		if (nickel >= 10) {
+			nickel = 0;
+			lives++;
+		}
+		if (titanium >= 10) {
+			titanium = 0;
+			lives++;
 		}
 
 		// give the graphics smooth edges
