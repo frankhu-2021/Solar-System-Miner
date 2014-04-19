@@ -62,17 +62,7 @@ public class SpaceShip {
 	}
 
 	public void setSpaceship() {
-		if (iron >= 10) {
-
-			iron = 0;
-			// increase the buffer(life) of the asteroid
-		}
-		if (nickel >= 10) {
-			nickel = 0;
-		}
-		if (titanium >= 10) {
-			titanium = 0;
-		}
+	
 		
 		if (hydrogen > 20) {
 			acceleration += .05;
