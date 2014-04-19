@@ -1,4 +1,5 @@
 package SolarSystemMiner;
+
 import java.awt.*;
 import java.awt.geom.Point2D;
 
@@ -12,7 +13,7 @@ public class SpaceShip {
 																	// motion
 	double radius = 12; // used to check for collisions
 	int iron = 0;
-	int nickel = 10;
+	int nickel = 0;
 	int titanium = 0;
 	int water = 10;
 	int oxygen = 10;
@@ -62,8 +63,7 @@ public class SpaceShip {
 	}
 
 	public void setSpaceship() {
-	
-		
+
 		if (hydrogen > 20) {
 			acceleration += .05;
 			deceleration += .05;
@@ -73,6 +73,18 @@ public class SpaceShip {
 
 	public int getIron() {
 		return iron;
+	}
+
+	public void setIron(int n) {
+		iron = n;
+	}
+
+	public void setNickel(int n) {
+		nickel = n;
+	}
+
+	public void setTitanium(int n) {
+		titanium = n;
 	}
 
 	public int getNickel() {
