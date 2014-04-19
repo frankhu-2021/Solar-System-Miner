@@ -77,7 +77,7 @@ public class Game extends Applet implements Runnable, KeyListener {
 		setFocusable(true);
 
 		ship = new SpaceShip(width / 2, height / 2, 0, .15, .5, .15, .98); // add
-																			// ship
+		// ship
 		InputStream in;
 		Toolkit toolkit;
 		byte buffer[];// to
@@ -148,7 +148,7 @@ public class Game extends Applet implements Runnable, KeyListener {
 		addAsteroids();
 
 		img = createImage(width, height); // create an off-screen image for
-											// double-buffering
+		// double-buffering
 		g = img.getGraphics(); // assign the off-screen image
 
 		int delay = 200;
@@ -199,18 +199,18 @@ public class Game extends Applet implements Runnable, KeyListener {
 		if (lives == 0 || ship.getWater() == 0 || ship.getOxygen() == 0) {
 			gameOver = true;
 		}
-	
-		if (iron >= 10) {
-			iron = 0;
+
+		if (ship.getIron() >= 10) {
+			ship.setIron(0);
 			lives++;
 			// increase the buffer(life) of the asteroid
 		}
-		if (nickel >= 10) {
-			nickel = 0;
+		if (ship.getNickel() >= 10) {
+			ship.setNickel(0);
 			lives++;
 		}
-		if (titanium >= 10) {
-			titanium = 0;
+		if (ship.getTitanium() >= 10) {
+			ship.setTitanium(0);
 			lives++;
 		}
 
@@ -328,7 +328,7 @@ public class Game extends Applet implements Runnable, KeyListener {
 
 		}
 		gfx.drawImage(img, 0, 0, this); // draw the off-screen image
-										// (double-buffering) onto the applet
+		// (double-buffering) onto the applet
 
 	}
 
@@ -351,14 +351,14 @@ public class Game extends Applet implements Runnable, KeyListener {
 					lasers.remove(i);
 			}
 			for (AsteroidExplosion e : explodingLines) { // asteroid explosion
-															// floating lines
-															// movement
+				// floating lines
+				// movement
 				e.move();
 			}
 			for (int i = 0; i < explodingLines.size(); i++) { // asteroid
-																// explosion
-																// floating
-																// lines removal
+				// explosion
+				// floating
+				// lines removal
 				if (explodingLines.get(i).getLifeLeft() <= 0)
 					explodingLines.remove(i);
 			}
@@ -380,16 +380,16 @@ public class Game extends Applet implements Runnable, KeyListener {
 			try {
 				endTime = System.currentTimeMillis(); // new timestamp
 				if (framePeriod - (endTime - startTime) > 0) // if there is time
-																// left over
-																// after
-																// repaint, then
-																// sleep
+					// left over
+					// after
+					// repaint, then
+					// sleep
 					Thread.sleep(framePeriod - (endTime - startTime)); // for
-																		// whatever
-																		// is
-																		// remaining
-																		// in
-																		// framePeriod
+				// whatever
+				// is
+				// remaining
+				// in
+				// framePeriod
 			} catch (InterruptedException e) {
 			}
 		}
