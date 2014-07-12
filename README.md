@@ -1,7 +1,7 @@
 SolarSystemMiner
 ================
 
-NasaSpaceApp
+NasaSpaceApp, UGA 1st Place Winner 2013.
 
 Solar System Miner
 
