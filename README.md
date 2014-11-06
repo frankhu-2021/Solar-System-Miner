@@ -56,4 +56,4 @@ http://www.universetoday.com/14824/distance-from-earth-to-mars/
 We tweaked and made the game into a relatable Asteroid Prospector game, where one collects the minerals and has a method of survival.
 
 This game is playable at 
-http://frankhu.magix.net/public/
+http://frankhu.magix.net/
