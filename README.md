@@ -5,15 +5,17 @@ NasaSpaceApp, UGA 1st Place Winner 2013.
 
 Solar System Miner
 
+## Team 
+
 Programmers - Frank Hu and Juweek Adolphe 
 
 Designed with the help of Alex Brandon Crow
 
+## Summary
 
 This game's purpose is to promote the education of space mining, space, and solar systems. The goal of the game is to mine asteroids for their respective resources in order to survive in space as the ship is tunneling through space as long as possible. The ship will pass by planets at their respective locations accordingly to where they have flown through space. I.E. you will be able to see mars when you are near it's respective location, which is 100million kilometers from earth. 
 
-
-Description
+## Full Description
 
 The purpose of this game is to try to get people more interested in space and to let people learn more about mining asteroids.
 
@@ -25,7 +27,7 @@ Nasa Space App Challenge Project Site for Solar System Miner
 - https://2014.spaceappschallenge.org/project/solar-system-miner/
 
 
-Citings- 
+## Citings
 
 /***************************************************************************************
 *    Title: Asteroids,AsteroidsExplosion,SpaceShip,Game, Laser, ShipExplosion
@@ -37,16 +39,16 @@ Citings-
 
 ***************************************************************************************/
 
-Files tweaked:
+## Files tweaked:
 - AsteroidsExplosion
 - SpaceShip
 - Game
 
-Files Added:
+## Files Added:
 - Minerals
 - All pictures
 
-NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
+# NelsonDK and englundGiant, October 16, 2012, Asteroids-Java-Clone, revision16, source code. http://code.google.com/p/asteroids-java-clone/
 
 http://www.universetoday.com/14824/distance-from-earth-to-mars/
 
