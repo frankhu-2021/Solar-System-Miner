@@ -1,9 +1,9 @@
 SolarSystemMiner
 ================
 
-NasaSpaceApp, UGA 1st Place Winner 2013.
+NasaSpaceApp Contest UGA 1st Place Winner 2013.
 
-Solar System Miner
+Solar System Miner - a small asteroids like game variant where we harvest asteroids for minerals.
 
 ## Team 
 
